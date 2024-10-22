@@ -1,0 +1,20 @@
+@media (max-width : 600px) {
+
+    .div{
+    
+        width: 70%;
+      
+    }
+    .up img{
+      height: 50vh;
+      
+    }
+    .down button{
+       
+       width: 100vw;
+    }
+
+   
+    
+    
+}
